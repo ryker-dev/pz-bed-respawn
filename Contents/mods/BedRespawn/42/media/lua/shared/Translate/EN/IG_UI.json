@@ -1,0 +1,7 @@
+{
+    "IGUI_BedRespawn_SetSpawn": "Set Spawn Point Here",
+    "IGUI_BedRespawn_Respawn": "Respawn at Bed",
+    "IGUI_BedRespawn_SpawnSet": "Spawn point set",
+    "IGUI_BedRespawn_SpawnFailed": "Couldn't set spawn point here",
+    "IGUI_BedRespawn_BedGone": "Your bed is gone. Spawn point cleared."
+}

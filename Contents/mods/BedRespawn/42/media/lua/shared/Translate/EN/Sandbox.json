@@ -1,0 +1,5 @@
+{
+    "Sandbox_BedRespawn": "Bed Respawn",
+    "Sandbox_BedRespawn.KeepProgress": "Keep progress when respawning at a bed",
+    "Sandbox_BedRespawn.KeepProgress_tooltip": "If enabled, players who respawn at a bed keep their skills, XP, recipes, book progress, traits, kills and survival time. Injuries are not kept and items stay on the corpse."
+}

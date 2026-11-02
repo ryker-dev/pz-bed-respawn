@@ -1,0 +1,9 @@
+VERSION = 1,
+
+option BedRespawn.KeepProgress
+{
+    type = boolean,
+    default = false,
+    page = BedRespawn,
+    translation = BedRespawn.KeepProgress,
+}

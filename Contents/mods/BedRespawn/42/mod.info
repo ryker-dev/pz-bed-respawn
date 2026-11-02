@@ -1,0 +1,9 @@
+id=BedRespawn
+version=1.0.0
+versionMin=42.16
+name=Bed Respawn
+description=Set your spawn point at a bed and respawn there as the same character. Works in singleplayer and multiplayer. Skills reset by default; a sandbox option keeps them.
+author=Ryker
+category=features
+poster=poster.png
+icon=icon.png
